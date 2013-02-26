@@ -1,0 +1,19 @@
+.matchrecord .legend{
+  color: #009900;
+  font-weight: bold;
+}
+.matchrecord .superstar{
+  color: #669900;
+}
+.matchrecord .emergingstar{
+  color: #999900;
+}
+.matchrecord .veteran{
+  color: #666600;
+}
+.matchrecord .experienced{
+  color: #993300;
+}
+.matchrecord .rookie{
+  color: #FF3300;
+}
