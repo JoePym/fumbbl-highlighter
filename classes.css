@@ -1,8 +1,11 @@
 .matchrecord .legend{
-  color: #009900;
+  color: #00AA00;
   font-weight: bold;
 }
 .matchrecord .superstar{
+  color: #229900;
+}
+.matchrecord .star{
   color: #669900;
 }
 .matchrecord .emergingstar{
